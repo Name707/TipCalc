@@ -15,8 +15,10 @@
   ~ limitations under the License.
   -->
 <resources>
-    <string name="app_name">Tip Time</string>
-    <string name="calculate_tip">Calculate Tip</string>
-    <string name="bill_amount">Bill Amount</string>
-    <string name="tip_amount">Tip Amount: %s</string>
+    <string name="app_name">Чаевые</string>
+    <string name="calculate_tip">Рассчет чаевых</string>
+    <string name="bill_amount">Общая сумма</string>
+    <string name="percent_size">Процент чаевых</string>
+    <string name="tip_amount">Размер чаевых: %s</string>
+    <string name="round_up_tip">Округлить чаевые</string>
 </resources>
